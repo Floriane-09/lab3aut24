@@ -23,7 +23,10 @@ bin/
 /.nb-gradle/
 
 ### VS Code ###
+B
 .vscode/
 
 ### Mac OS ###
 .DS_Store
+
+*.class
